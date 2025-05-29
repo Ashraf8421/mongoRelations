@@ -1,5 +1,5 @@
 //ONE TO MANY APPROACH 1
-//storing the child object itself inside the parent object
+//storing or embedding the child object itself inside the parent object
 const mongoose = require("mongoose");
 const { Schema } = mongoose;
 
